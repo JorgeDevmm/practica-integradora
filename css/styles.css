@@ -8,3 +8,7 @@ h2 {
   color: yellow;
   font-weight: 400;
 }
+
+li {
+  background-color: blue;
+}
